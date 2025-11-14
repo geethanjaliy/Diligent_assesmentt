@@ -1,0 +1,5 @@
+customer_tier,customer_count,avg_orders_per_customer,avg_lifetime_value,avg_order_frequency_days
+Silver,236,16.52,20834.82,171.83
+Gold,249,16.01,20619.02,179.31
+Basic,221,15.62,20084.59,170.9
+Platinum,242,15.06,19181.05,162.71

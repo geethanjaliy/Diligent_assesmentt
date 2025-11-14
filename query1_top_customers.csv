@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_tier,total_orders,total_spent,avg_rating_given,reviews_written
+CUST_0100,Michael Kelly,Platinum,11,72680.03,3.67,30
+CUST_0975,Derrick Garcia,Silver,8,67397.19,3.83,24
+CUST_0192,Brenda Johnson,Platinum,9,62797.3,3.76,17
+CUST_0576,Traci Jones,Basic,10,60232.28,3.85,26
+CUST_0346,John Humphrey,Silver,9,59637.62,3.52,21
+CUST_0198,Frank Mcknight,Silver,10,59629.47,3.71,21
+CUST_0225,Dean Larson,Basic,11,57657.27,3.79,24
+CUST_0976,Charles Castro,Gold,10,57581.05,3.84,19
+CUST_0450,Stephanie Garza,Platinum,6,57458.87,3.5,24
+CUST_0266,Patrick Dominguez,Gold,9,57172.56,3.64,25

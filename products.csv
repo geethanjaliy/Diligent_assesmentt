@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,cost_price,selling_price,stock_quantity,supplier,is_active,created_date
+PROD_0001,Customer-focused content-based productivity,Electronics,Smartphones,Adams-Hall,327.89,492.45,756,Hughes-Lozano,True,2024-04-11
+PROD_0002,Persevering actuating contingency,Clothing,Shoes,Douglas-Parsons,441.71,630.99,941,Johnson Inc,True,2025-01-11
+PROD_0003,Fully-configurable foreground Graphical User Interface,Sports,Yoga,Fleming-Alexander,97.22,211.33,893,Williams-Miller,False,2024-08-27
+PROD_0004,Automated uniform analyzer,Electronics,Smartphones,Leonard-Miller,152.7,302.9,950,Mejia-Wall,False,2025-07-09
+PROD_0005,Intuitive full-range moderator,Home,Decor,Cooper-Contreras,494.6,942.85,505,Todd-Scott,True,2023-11-21
+PROD_0006,Compatible upward-trending concept,Beauty,Fragrance,"Cannon, Bush and Rowe",140.05,315.32,338,Chapman-Beard,True,2024-11-17
+PROD_0007,Versatile neutral orchestration,Sports,Team Sports,Rivera-Odom,360.71,439.46,345,Rivas and Sons,False,2024-08-09
+PROD_0008,Face-to-face background interface,Beauty,Makeup,Little-Wright,91.87,212.49,918,Doyle-Baird,False,2024-07-19
+PROD_0009,Proactive uniform knowledgebase,Sports,Cycling,Lee-Hart,167.32,287.97,97,Jimenez and Sons,True,2024-07-10
+PROD_0010,De-engineered attitude-oriented artificial intelligence,Clothing,Shoes,Little Group,165.18,251.48,267,Cisneros-Harris,False,2024-01-29
+PROD_0011,Versatile zero administration Local Area Network,Clothing,Shoes,Obrien-Peterson,378.11,922.68,309,Martin-Brock,True,2025-05-30
+PROD_0012,Optimized upward-trending analyzer,Home,Bedding,"Sharp, Rodgers and Simpson",347.92,445.6,121,"Ward, Franco and Craig",False,2025-06-09
+PROD_0013,Proactive background model,Home,Kitchen,Giles-Scott,205.68,381.18,916,"Graves, Nichols and Alexander",False,2024-08-14
+PROD_0014,Organized even-keeled artificial intelligence,Electronics,Tablets,"Morris, Wells and Blake",186.93,277.98,980,Gaines Ltd,True,2024-03-17
+PROD_0015,Monitored methodical parallelism,Sports,Outdoor,Pratt-Rice,230.21,572.18,382,"Rogers, Gutierrez and Burns",False,2024-06-05
+PROD_0016,Triple-buffered optimal functionalities,Beauty,Fragrance,"Mills, Hampton and Hunt",379.89,851.94,845,Patterson PLC,True,2025-02-05
+PROD_0017,Multi-layered secondary hub,Clothing,Accessories,Taylor Group,437.2,571.17,457,Mitchell-Tucker,False,2023-12-11
+PROD_0018,Centralized multi-state array,Electronics,Cameras,Walker Inc,60.54,137.87,924,Myers Ltd,True,2024-07-08
+PROD_0019,Cross-platform stable encryption,Beauty,Bath & Body,Leonard-Vega,79.18,128.79,532,"Sims, Hale and Avila",False,2025-07-06
+PROD_0020,Persevering optimal info-mediaries,Electronics,Laptops,Harris-Smith,359.87,660.53,920,"Clements, Gross and Powell",False,2025-01-27
+PROD_0021,Up-sized tertiary infrastructure,Electronics,Headphones,Johnson PLC,70.31,122.34,577,Mcknight Ltd,True,2025-09-21
+PROD_0022,Exclusive encompassing frame,Beauty,Fragrance,Johnson Inc,338.02,541.04,22,Morales-Rogers,False,2024-08-29
+PROD_0023,Adaptive bi-directional system engine,Home,Furniture,Herrera-Rios,374.17,730.31,46,Morris Group,False,2025-04-13
+PROD_0024,Fully-configurable holistic artificial intelligence,Home,Furniture,"Long, Shaw and Greene",272.88,348.83,915,"Garcia, Koch and Johns",True,2024-04-24
+PROD_0025,User-friendly intangible intranet,Sports,Fitness,"Schneider, Oconnell and Griffin",147.11,210.95,138,Coffey-Moran,False,2023-12-06
+PROD_0026,Switchable scalable Graphic Interface,Home,Decor,Gilbert LLC,227.03,543.11,386,Gay-Rivera,False,2025-06-23
+PROD_0027,Fundamental executive hub,Electronics,Cameras,Fritz-Fletcher,70.83,164.21,121,Dean-Gray,True,2024-06-27
+PROD_0028,Future-proofed multimedia strategy,Beauty,Fragrance,"Williams, Conner and Garcia",266.78,572.57,228,"Jenkins, Wilson and Cox",True,2025-08-07
+PROD_0029,Sharable hybrid structure,Electronics,Tablets,Carr-Martin,234.19,499.95,434,Riley Inc,False,2025-03-15
+PROD_0030,Managed holistic concept,Clothing,Women,Hunt Group,233.01,326.6,193,Fernandez Inc,True,2025-07-25
+PROD_0031,Streamlined attitude-oriented interface,Electronics,Headphones,Smith and Sons,309.39,747.83,910,Dillon Group,True,2024-11-24
+PROD_0032,Right-sized mobile focus group,Clothing,Women,Quinn-Rowe,38.31,75.55,457,"Farrell, Hall and Davis",True,2024-03-26
+PROD_0033,Digitized secondary flexibility,Clothing,Men,Lin LLC,204.12,307.13,222,Davies Inc,True,2025-08-16
+PROD_0034,Seamless real-time migration,Clothing,Accessories,Larson-Patel,496.77,747.35,938,"Sullivan, Graves and Guerrero",False,2024-10-25
+PROD_0035,Upgradable demand-driven open architecture,Beauty,Bath & Body,"Lin, Contreras and Howard",387.41,877.06,242,Brady-Shaffer,False,2025-03-06
+PROD_0036,Digitized bandwidth-monitored throughput,Clothing,Accessories,Gonzales-Sanders,114.42,182.0,62,Clark LLC,True,2025-09-17
+PROD_0037,Persistent leadingedge emulation,Sports,Cycling,"Lin, Owens and Hernandez",250.33,616.81,964,Ritter Inc,False,2024-03-27
+PROD_0038,Seamless directional policy,Beauty,Haircare,Williams LLC,349.67,605.19,307,Mills Inc,False,2024-03-15
+PROD_0039,Devolved discrete task-force,Clothing,Accessories,"Murphy, Shelton and Martinez",239.39,551.59,307,"Wong, Williamson and Sutton",True,2024-01-19
+PROD_0040,Versatile homogeneous extranet,Sports,Fitness,Andersen and Sons,283.38,696.58,570,"Wheeler, Schroeder and Miles",True,2024-02-05
+PROD_0041,Extended intermediate support,Sports,Outdoor,"Oneill, Gomez and Good",131.22,213.8,80,"Martinez, Griffin and Berry",False,2025-04-17
+PROD_0042,Stand-alone dynamic capacity,Home,Furniture,Li-Reeves,270.14,615.44,52,"Sanchez, Goodwin and Pruitt",False,2024-04-23
+PROD_0043,Re-contextualized empowering analyzer,Sports,Cycling,Hobbs Group,303.45,708.77,192,French and Sons,True,2024-01-24
+PROD_0044,Optimized high-level workforce,Sports,Outdoor,"Nelson, Harrison and Miller",435.39,710.93,979,Burgess Ltd,True,2024-05-20
+PROD_0045,Expanded client-driven matrices,Clothing,Women,Clark LLC,481.23,650.87,772,"Brown, Dean and Moreno",False,2025-01-10
+PROD_0046,Face-to-face mission-critical leverage,Clothing,Accessories,Tucker LLC,353.37,606.25,245,Ruiz-Ramos,False,2024-10-21
+PROD_0047,Adaptive analyzing portal,Home,Decor,Richardson-Weber,235.79,481.8,315,Wong Ltd,False,2024-03-11
+PROD_0048,Monitored didactic moderator,Home,Garden,Torres LLC,441.99,798.15,822,"White, Santiago and Roberts",False,2024-08-08
+PROD_0049,Programmable leadingedge synergy,Home,Kitchen,"Mitchell, Salazar and Gonzales",188.5,327.63,576,Gutierrez-Moore,True,2025-01-13
+PROD_0050,Programmable explicit analyzer,Clothing,Men,Smith-Little,134.08,323.83,593,Hudson Group,False,2024-04-24
+PROD_0051,Cloned exuding workforce,Home,Kitchen,Williams and Sons,102.11,153.07,583,Russell and Sons,True,2025-10-07
+PROD_0052,Programmable local instruction set,Sports,Cycling,Faulkner LLC,329.03,687.77,263,Figueroa-Thomas,False,2025-11-06
+PROD_0053,Automated multi-state hierarchy,Sports,Yoga,Brown LLC,88.28,197.17,173,Stewart-Nielsen,True,2024-11-25
+PROD_0054,Extended full-range array,Beauty,Fragrance,Brown-Collier,96.1,226.43,657,"Dean, Long and Conway",True,2025-10-02
+PROD_0055,Total upward-trending paradigm,Beauty,Skincare,Hernandez Ltd,420.34,545.03,837,"Dixon, Harris and White",True,2024-06-03
+PROD_0056,Public-key grid-enabled infrastructure,Electronics,Headphones,Dixon Inc,73.06,147.57,69,"Reed, Stone and Compton",True,2024-07-22
+PROD_0057,Public-key upward-trending approach,Electronics,Laptops,"Cardenas, Rogers and Parker",255.34,430.29,632,Tran and Sons,False,2024-08-18
+PROD_0058,Ergonomic 5thgeneration framework,Sports,Fitness,Warren-Todd,8.27,15.85,12,York Inc,True,2025-08-07
+PROD_0059,Ameliorated impactful task-force,Beauty,Haircare,Ward PLC,270.19,424.93,514,Jones and Sons,False,2024-06-27
+PROD_0060,Ameliorated dedicated leverage,Clothing,Men,Stevens Ltd,459.43,864.51,246,Graves PLC,True,2025-07-24
+PROD_0061,Integrated impactful firmware,Beauty,Bath & Body,Oneal-Newton,129.95,215.82,814,"Butler, Smith and Hebert",False,2025-01-02
+PROD_0062,Down-sized background pricing structure,Electronics,Tablets,Griffin-Solis,479.85,862.15,249,May Ltd,True,2024-04-06
+PROD_0063,Horizontal stable artificial intelligence,Home,Furniture,"Lucas, Griffin and Howard",328.6,760.93,777,Smith-Bell,True,2025-02-20
+PROD_0064,Operative 24hour focus group,Electronics,Headphones,Bell-Singh,192.74,369.77,57,"Johnson, Haas and Jackson",True,2025-10-23
+PROD_0065,Streamlined full-range database,Clothing,Men,Boyd Ltd,252.43,445.31,803,Smith-Proctor,False,2024-02-19
+PROD_0066,Advanced tertiary benchmark,Beauty,Skincare,Morris and Sons,447.92,1072.72,235,"Gonzalez, Krueger and Fisher",True,2025-09-12
+PROD_0067,Adaptive composite matrix,Beauty,Fragrance,Johnson and Sons,139.19,334.25,700,"Love, Walker and Johnson",False,2025-06-03
+PROD_0068,Mandatory fault-tolerant knowledgebase,Beauty,Bath & Body,Ware-Blake,330.76,474.03,870,Anderson LLC,False,2025-09-09
+PROD_0069,User-friendly 5thgeneration complexity,Electronics,Laptops,Herrera Group,295.58,643.75,729,Smith Ltd,False,2025-10-08
+PROD_0070,Reverse-engineered needs-based protocol,Electronics,Tablets,"Smith, Hunter and Vargas",85.41,129.19,854,"Aguilar, Gomez and Mitchell",False,2024-12-11
+PROD_0071,Cross-platform tangible implementation,Beauty,Haircare,Miller Inc,195.0,421.53,809,Williams-Hicks,True,2024-10-14
+PROD_0072,Synchronized 24hour data-warehouse,Beauty,Haircare,"Cantrell, Clark and Lynn",31.58,55.84,858,"Jacobs, Freeman and Green",True,2024-11-28
+PROD_0073,Fundamental tangible matrix,Home,Garden,Brown Inc,385.66,941.52,406,Scott Group,False,2025-03-23
+PROD_0074,Progressive context-sensitive Internet solution,Electronics,Tablets,Vargas Ltd,392.86,701.54,233,Ray-Adams,False,2024-12-05
+PROD_0075,Multi-lateral upward-trending budgetary management,Beauty,Fragrance,Larson-Cohen,218.76,455.81,676,"Lee, Juarez and Daniels",False,2024-11-15
+PROD_0076,Digitized static moratorium,Electronics,Cameras,"Mccall, Peterson and Duke",151.21,229.9,75,Howard-Lam,True,2024-12-30
+PROD_0077,Up-sized optimal hub,Home,Kitchen,Rogers LLC,193.1,428.5,157,Terrell-Bass,False,2023-11-26
+PROD_0078,Persevering upward-trending knowledgebase,Home,Bedding,"Harris, Neal and Clark",57.74,69.68,315,Lopez Inc,False,2024-06-23
+PROD_0079,Expanded zero administration projection,Home,Bedding,"Moody, Phillips and Rogers",55.6,73.03,441,Sweeney-Warren,False,2025-04-13
+PROD_0080,Intuitive incremental process improvement,Beauty,Bath & Body,Myers Inc,258.66,345.13,91,Holder-Jones,False,2024-04-03
+PROD_0081,Decentralized actuating functionalities,Beauty,Skincare,Robinson Ltd,300.48,667.0,884,"Baker, Hill and Hunt",False,2025-04-21
+PROD_0082,Pre-emptive demand-driven groupware,Electronics,Tablets,Davis-Newton,209.84,464.36,742,"Santana, Garcia and Berg",True,2025-10-27
+PROD_0083,Universal scalable core,Beauty,Bath & Body,Morrison-White,88.94,150.75,142,"Finley, Joseph and Smith",False,2024-05-22
+PROD_0084,Business-focused solution-oriented definition,Home,Bedding,"Wheeler, Lee and Lopez",249.1,319.41,445,"Martin, Hodges and Steele",False,2025-05-19
+PROD_0085,Monitored tangible forecast,Sports,Team Sports,White-Taylor,244.69,318.1,257,Martin LLC,True,2023-11-24
+PROD_0086,Vision-oriented bi-directional definition,Sports,Cycling,Hunt-Soto,310.25,556.97,138,Price and Sons,False,2025-08-24
+PROD_0087,Seamless tertiary standardization,Electronics,Headphones,Barnes LLC,169.45,339.96,823,Boone and Sons,False,2025-01-20
+PROD_0088,Cloned bandwidth-monitored conglomeration,Sports,Team Sports,Harris-Kelley,218.16,495.35,666,Evans-Leblanc,True,2024-07-15
+PROD_0089,Profit-focused logistical focus group,Home,Bedding,Wallace-Oconnor,303.59,638.72,490,Marshall-Perez,False,2025-08-01
+PROD_0090,Devolved fresh-thinking matrices,Clothing,Shoes,Torres-White,484.52,765.0,711,Wilcox-Barnes,False,2024-02-13
+PROD_0091,Innovative global superstructure,Beauty,Makeup,"Mason, Lee and Warner",166.31,260.17,804,"Miller, Levine and Hill",False,2024-11-06
+PROD_0092,Extended web-enabled collaboration,Home,Furniture,Roberts Inc,466.37,680.78,558,Cole Ltd,True,2025-05-30
+PROD_0093,Enhanced multimedia superstructure,Beauty,Skincare,Pena Inc,476.74,858.18,725,"Morales, Pittman and Mays",True,2024-07-23
+PROD_0094,User-friendly systematic process improvement,Sports,Team Sports,Proctor Ltd,416.48,537.22,868,"Campbell, Roberts and Ramirez",False,2025-04-15
+PROD_0095,Switchable multimedia orchestration,Sports,Outdoor,Brewer Inc,318.5,482.41,674,"Larson, Jackson and Robinson",True,2025-08-13
+PROD_0096,Function-based web-enabled emulation,Sports,Yoga,Anderson-Torres,41.61,103.52,490,Stevens and Sons,False,2025-09-27
+PROD_0097,Fundamental well-modulated monitoring,Beauty,Bath & Body,Gonzalez LLC,462.13,1077.0,428,Johnson LLC,True,2025-06-01
+PROD_0098,Multi-channeled local protocol,Home,Garden,Fuller and Sons,298.94,714.08,111,Gallegos Inc,True,2025-03-31
+PROD_0099,Digitized incremental alliance,Home,Kitchen,Cruz Group,325.26,409.04,660,Chambers Inc,False,2025-09-14
+PROD_0100,Inverse real-time artificial intelligence,Home,Decor,"Davis, Mitchell and Owens",57.44,76.29,227,Mcintosh LLC,True,2024-07-28
+PROD_0101,Focused didactic migration,Sports,Team Sports,Hubbard-Ferguson,198.61,437.75,602,Bean Group,True,2025-09-03
+PROD_0102,Fundamental empowering budgetary management,Home,Furniture,Davis-Nelson,243.97,386.46,942,Mora PLC,True,2023-11-16
+PROD_0103,Future-proofed tangible adapter,Electronics,Laptops,"Fisher, Hunt and Young",177.42,292.03,803,"Fields, Cantu and Melendez",True,2024-01-25
+PROD_0104,Enhanced 4thgeneration parallelism,Beauty,Fragrance,Vargas-Strickland,177.41,235.41,739,"Hughes, Young and Salazar",False,2024-02-19
+PROD_0105,Sharable intermediate encoding,Home,Furniture,Fox-Hall,153.63,346.17,117,"Stevens, Munoz and Turner",True,2025-05-17
+PROD_0106,Secured uniform hierarchy,Home,Furniture,Franklin-Taylor,340.18,480.9,758,Bishop-Lawson,True,2024-07-21
+PROD_0107,Decentralized didactic extranet,Beauty,Makeup,"Cannon, Walters and Price",278.2,453.55,436,Turner-Coffey,False,2024-12-03
+PROD_0108,Focused needs-based neural-net,Clothing,Shoes,Ramos Inc,316.73,456.82,673,Peterson-Young,False,2025-01-21
+PROD_0109,Digitized modular orchestration,Sports,Fitness,"Johnson, Jennings and Carter",370.01,868.79,460,"Cook, Davis and Brown",False,2024-04-17
+PROD_0110,Synergized motivating framework,Sports,Fitness,"Barrett, Johnson and Oliver",353.84,519.27,770,Dunn-Thompson,True,2025-01-18
+PROD_0111,Pre-emptive asynchronous info-mediaries,Beauty,Skincare,Reynolds-Smith,400.75,760.61,374,Mcpherson-Riley,False,2024-07-29
+PROD_0112,Ameliorated asymmetric superstructure,Clothing,Shoes,"James, Miller and Howard",61.41,127.24,501,"Shelton, Jones and Gregory",False,2024-06-08
+PROD_0113,Proactive background projection,Beauty,Fragrance,Sanders-Woods,307.6,603.85,356,Orr Ltd,False,2025-03-14
+PROD_0114,Expanded dedicated application,Sports,Cycling,Morgan-Haley,90.4,187.64,819,Smith-Hayden,False,2025-06-28
+PROD_0115,Profound clear-thinking interface,Beauty,Bath & Body,"Thompson, Scott and Miller",46.95,64.52,120,"Mitchell, Harmon and Johnson",True,2024-02-15
+PROD_0116,Managed incremental initiative,Home,Furniture,Moyer PLC,95.61,200.92,523,Wilson and Sons,False,2025-03-11
+PROD_0117,Horizontal eco-centric hub,Sports,Cycling,"Goodman, Coleman and Smith",73.24,124.42,190,Wilson-Harris,False,2024-02-26
+PROD_0118,Open-architected coherent knowledgebase,Beauty,Makeup,Johnson-Brown,279.68,513.64,143,Robinson LLC,True,2024-03-07
+PROD_0119,Synergistic systemic focus group,Home,Decor,"Phillips, Gordon and Jensen",311.61,724.55,974,Wilson-Bradley,True,2024-04-19
+PROD_0120,Decentralized homogeneous superstructure,Sports,Outdoor,Johnson-Schultz,101.59,172.61,575,"Stokes, Miller and Grant",False,2025-06-13
+PROD_0121,Operative full-range artificial intelligence,Sports,Yoga,Henderson-Hardin,210.74,482.99,500,"Owens, Travis and Fowler",True,2025-07-11
+PROD_0122,Open-architected multimedia model,Electronics,Cameras,Murphy Ltd,20.28,44.4,299,Morgan Inc,True,2025-01-21
+PROD_0123,Organized logistical algorithm,Home,Kitchen,Stevens-Henry,271.12,384.63,468,"Jones, Alvarez and Padilla",False,2025-06-24
+PROD_0124,Multi-layered zero tolerance benchmark,Beauty,Bath & Body,"Werner, Buckley and Gonzales",61.04,82.31,793,Boone-Perry,False,2025-03-12
+PROD_0125,Visionary leadingedge success,Beauty,Skincare,"Porter, Walker and Stewart",381.2,676.16,223,Mcdonald-Adams,False,2025-08-14
+PROD_0126,Multi-lateral needs-based pricing structure,Electronics,Laptops,Morales PLC,152.37,380.79,460,Barrera Inc,False,2024-03-08
+PROD_0127,Grass-roots human-resource archive,Home,Furniture,Hill-Harris,222.34,554.1,794,Taylor and Sons,True,2024-12-18
+PROD_0128,Optional heuristic productivity,Clothing,Accessories,Martin Ltd,346.12,802.78,624,"Larson, Petersen and Cox",False,2025-11-11
+PROD_0129,Integrated non-volatile middleware,Clothing,Accessories,"Hernandez, Washington and Willis",73.92,108.56,211,"Stout, Nelson and Long",True,2024-07-29
+PROD_0130,Quality-focused content-based parallelism,Beauty,Haircare,Vaughn LLC,268.48,530.49,172,"Webb, Martinez and Foster",False,2025-04-03
+PROD_0131,Open-source client-server collaboration,Home,Bedding,Ross-Gross,288.5,703.4,526,Munoz-Dean,True,2024-10-28
+PROD_0132,Switchable encompassing moratorium,Clothing,Shoes,"Phillips, Lloyd and Rodriguez",459.79,1144.98,887,Day and Sons,True,2024-10-31
+PROD_0133,Integrated well-modulated data-warehouse,Clothing,Women,"James, Mays and Hill",77.39,125.27,253,Ward LLC,False,2025-04-27
+PROD_0134,Innovative human-resource standardization,Sports,Outdoor,Peters Ltd,290.83,450.59,424,"Garcia, Mullins and Washington",False,2025-09-15
+PROD_0135,Object-based disintermediate flexibility,Sports,Fitness,Phillips Group,318.65,746.97,95,Hill and Sons,False,2025-08-24
+PROD_0136,Fully-configurable real-time attitude,Beauty,Haircare,Riley Ltd,348.88,816.56,465,Wu-Lamb,False,2023-11-16
+PROD_0137,Operative mobile circuit,Home,Garden,Sanders-Benson,6.22,13.72,750,"Huff, Perkins and Sullivan",True,2024-05-01
+PROD_0138,Networked analyzing open system,Sports,Team Sports,Rogers-Richardson,425.8,951.4,407,"Hall, Hayes and Wilson",True,2025-01-16
+PROD_0139,Secured reciprocal help-desk,Sports,Outdoor,Woods-Thomas,249.88,404.74,290,Johnson-Mclaughlin,False,2025-10-27
+PROD_0140,Ergonomic 24hour task-force,Beauty,Bath & Body,"Hughes, Shaw and Becker",69.64,160.74,807,"Richardson, Lucero and Kim",False,2024-09-22
+PROD_0141,Multi-channeled intangible algorithm,Electronics,Smartphones,Weaver LLC,54.29,120.47,470,Boyd-Young,True,2024-02-25
+PROD_0142,Function-based grid-enabled capability,Electronics,Laptops,"Bishop, Horton and Morales",223.44,268.32,981,"Roberts, Garcia and Herring",False,2024-12-06
+PROD_0143,User-friendly explicit hub,Clothing,Women,"Freeman, Brown and Hunt",441.66,703.31,895,"Brown, Ellis and Miller",False,2025-04-07
+PROD_0144,Centralized zero-defect strategy,Electronics,Tablets,"Brown, Morris and Griffith",128.94,217.06,925,Patterson and Sons,True,2024-08-02
+PROD_0145,Focused interactive moderator,Electronics,Headphones,"Scott, Arnold and Moore",314.67,674.58,773,Roberts and Sons,True,2025-10-22
+PROD_0146,Assimilated 6thgeneration portal,Sports,Fitness,Austin-Rose,353.33,424.49,488,Hobbs Ltd,True,2024-01-12
+PROD_0147,Innovative impactful success,Clothing,Accessories,Carroll-Ingram,116.96,243.74,9,Bender-Young,True,2024-10-26
+PROD_0148,Robust background time-frame,Home,Furniture,York Ltd,494.14,864.25,135,"Cross, Lozano and Thompson",False,2024-10-06
+PROD_0149,Focused modular pricing structure,Electronics,Laptops,"Johnson, Cochran and Flynn",194.62,418.43,104,Taylor-Hill,True,2025-08-28
+PROD_0150,Multi-lateral zero-defect frame,Home,Bedding,"Wright, Hunt and Williams",441.09,607.94,792,Casey-Walker,True,2024-06-04
+PROD_0151,Programmable regional emulation,Clothing,Men,"Mcclain, Morales and Case",267.6,324.07,665,Landry Ltd,True,2024-05-13
+PROD_0152,Mandatory heuristic hub,Sports,Team Sports,"Henderson, Daniel and Johnston",362.6,731.18,155,Rivera-Harvey,False,2024-03-26
+PROD_0153,Intuitive global conglomeration,Beauty,Fragrance,"Carlson, Travis and Murphy",430.68,565.35,102,"Moyer, Christensen and Whitney",True,2025-08-02
+PROD_0154,Adaptive optimal framework,Electronics,Cameras,Brown-Grant,366.35,607.04,439,"Willis, Mata and Woods",False,2025-07-19
+PROD_0155,Function-based systemic algorithm,Clothing,Women,Doyle-Kelley,142.1,186.08,566,"Miller, White and Wallace",False,2024-06-02
+PROD_0156,Universal dedicated framework,Electronics,Tablets,"Rivers, Martinez and Bradley",106.7,212.23,193,Morgan-Love,False,2024-08-18
+PROD_0157,Business-focused incremental customer loyalty,Home,Furniture,"Grimes, Lane and Armstrong",392.98,877.1,245,"Weber, Young and Morrow",False,2025-07-07
+PROD_0158,Expanded local hub,Sports,Fitness,Cole and Sons,124.34,252.35,72,"Miranda, Mason and Jenkins",True,2025-02-24
+PROD_0159,Virtual intermediate task-force,Home,Bedding,Blackburn LLC,70.33,163.1,582,Christensen PLC,False,2024-08-24
+PROD_0160,Multi-channeled bi-directional collaboration,Home,Garden,Hampton LLC,343.06,751.83,977,Jenkins-Mcgee,True,2025-09-27
+PROD_0161,Monitored upward-trending orchestration,Electronics,Cameras,Richard-Robinson,38.43,59.21,40,Beck and Sons,True,2023-11-20
+PROD_0162,Horizontal directional methodology,Sports,Cycling,"Lynch, Gonzalez and Rodriguez",146.81,312.18,785,Romero-Zimmerman,False,2025-11-02
+PROD_0163,Reactive 3rdgeneration extranet,Sports,Yoga,Jones Ltd,45.8,86.91,630,"Gonzalez, Horton and Johnson",True,2024-07-31
+PROD_0164,Innovative optimizing monitoring,Home,Furniture,Taylor-Mcclure,158.4,295.37,208,Jones-Ochoa,True,2024-01-30
+PROD_0165,Automated even-keeled encoding,Beauty,Haircare,Rivas Ltd,198.41,401.7,854,"Robinson, Mcgrath and Norman",True,2024-01-19
+PROD_0166,Profound mission-critical time-frame,Home,Decor,Anderson-Benson,366.33,842.71,59,"Harris, Webb and Shields",True,2023-12-31
+PROD_0167,Managed content-based workforce,Electronics,Headphones,White-Krueger,62.41,124.57,56,Gonzales-Watson,False,2024-01-18
+PROD_0168,Total uniform ability,Clothing,Men,"Kirk, Williams and Harper",11.27,15.53,11,"Thomas, Singh and Allen",True,2024-11-15
+PROD_0169,Up-sized national framework,Sports,Team Sports,"Kennedy, Singleton and Marshall",263.89,585.28,738,"Griffin, Torres and Ward",False,2024-04-29
+PROD_0170,Sharable exuding product,Clothing,Kids,Stokes Ltd,67.83,150.27,275,Jones LLC,True,2025-11-07
+PROD_0171,Proactive high-level pricing structure,Electronics,Tablets,Garrett LLC,404.52,628.45,65,"Hubbard, Dawson and Cruz",False,2024-04-23
+PROD_0172,Grass-roots needs-based workforce,Beauty,Skincare,Wilson-Harris,250.59,467.1,56,Monroe-Hernandez,False,2024-07-14
+PROD_0173,Up-sized neutral flexibility,Beauty,Makeup,Walker-Strickland,187.01,286.43,105,Riley Group,True,2024-03-09
+PROD_0174,User-friendly tangible process improvement,Clothing,Accessories,"Zimmerman, Robinson and Berry",6.27,14.52,12,Glover PLC,True,2024-05-24
+PROD_0175,Integrated even-keeled moratorium,Electronics,Headphones,"Yoder, Butler and Brown",185.17,443.72,183,"Barton, Watts and Moore",True,2024-03-26
+PROD_0176,Proactive 5thgeneration support,Beauty,Fragrance,Morgan and Sons,116.14,176.85,937,"Foster, Bell and Moore",False,2024-03-07
+PROD_0177,User-centric hybrid frame,Home,Furniture,Richards-Walsh,287.91,390.18,689,Haynes Group,True,2025-02-03
+PROD_0178,Ergonomic system-worthy initiative,Clothing,Women,Colon Inc,403.15,998.13,976,Beard Ltd,False,2024-12-10
+PROD_0179,Persistent holistic archive,Electronics,Headphones,"Ward, Bradley and Jones",433.69,956.54,318,Donaldson LLC,False,2025-03-20
+PROD_0180,Up-sized heuristic support,Electronics,Cameras,Romero Group,231.09,388.14,298,Valentine PLC,False,2025-06-26
+PROD_0181,Triple-buffered optimal contingency,Beauty,Makeup,Porter-Manning,234.64,462.05,505,Rodriguez PLC,True,2024-06-02
+PROD_0182,Future-proofed client-driven customer loyalty,Beauty,Makeup,"Jarvis, Coleman and Jennings",79.53,191.84,24,"Bailey, Barnes and Guerra",True,2025-01-01
+PROD_0183,Face-to-face optimizing projection,Beauty,Haircare,Cook-Haynes,319.79,672.04,9,Glenn and Sons,False,2025-09-02
+PROD_0184,Distributed grid-enabled capability,Electronics,Headphones,Yoder-Olson,425.26,912.34,106,"Smith, Simmons and Vang",True,2025-06-14
+PROD_0185,Assimilated responsive challenge,Beauty,Makeup,Jones-Montgomery,212.81,521.29,995,Olsen Inc,True,2024-01-13
+PROD_0186,Reactive regional solution,Home,Furniture,"Davis, Jones and Luna",26.73,40.12,865,"Anderson, Lewis and Clark",False,2024-09-06
+PROD_0187,Front-line global emulation,Home,Decor,Rosario-Clark,487.4,638.68,97,Washington-Deleon,True,2025-04-23
+PROD_0188,Digitized dynamic conglomeration,Sports,Fitness,Payne-Watson,297.99,381.72,678,"Taylor, Park and Oneal",True,2023-12-11
+PROD_0189,Extended impactful definition,Clothing,Kids,Bush Group,134.19,215.98,820,"Washington, Hill and Wong",False,2025-02-04
+PROD_0190,Automated fresh-thinking matrices,Home,Bedding,"Mathews, Estes and Garcia",229.12,344.53,966,Johnson Inc,True,2024-04-27
+PROD_0191,Enhanced fresh-thinking matrix,Clothing,Accessories,"Edwards, Campbell and Baker",58.94,78.82,460,"Ewing, Briggs and Mcmillan",False,2023-11-29
+PROD_0192,Future-proofed local artificial intelligence,Home,Decor,Weaver-Perkins,64.76,107.88,788,Hawkins-Reese,True,2024-04-19
+PROD_0193,Distributed next generation challenge,Sports,Team Sports,"Cruz, Allen and Strong",234.36,540.96,92,"Hart, Eaton and Tran",True,2024-09-26
+PROD_0194,Polarized systemic conglomeration,Home,Garden,Cabrera Ltd,24.96,57.08,335,"Wu, Branch and Shaw",True,2024-02-26
+PROD_0195,Stand-alone intermediate core,Electronics,Laptops,"Terrell, Nelson and Wallace",484.36,830.73,50,Vincent-Carter,False,2025-02-20
+PROD_0196,Right-sized actuating database,Home,Kitchen,Perry LLC,20.39,35.19,463,"Stokes, Valenzuela and Atkinson",True,2024-09-19
+PROD_0197,Digitized scalable portal,Electronics,Headphones,Mccall-Thompson,55.44,123.74,124,"Evans, Wilson and Burns",True,2024-04-12
+PROD_0198,Distributed global success,Electronics,Laptops,"Moreno, Aguilar and Riley",69.7,158.27,381,"Floyd, Johnson and Taylor",True,2025-10-22
+PROD_0199,Fully-configurable scalable workforce,Beauty,Bath & Body,Ramirez LLC,133.12,300.39,22,Smith Ltd,True,2025-07-15
+PROD_0200,Optimized client-server orchestration,Clothing,Shoes,"Wyatt, Sherman and Alvarado",405.6,535.22,867,"Pena, Price and Graham",False,2024-12-28
+PROD_0201,Enterprise-wide systemic complexity,Electronics,Smartphones,"Crane, Garcia and Walker",471.43,596.75,946,Brown Group,False,2025-07-30
+PROD_0202,Intuitive encompassing standardization,Sports,Yoga,"Salazar, Figueroa and Sherman",19.59,40.91,176,"Mitchell, Wright and Stewart",False,2025-09-12
+PROD_0203,Integrated responsive instruction set,Clothing,Women,Klein PLC,141.12,251.17,152,"Hicks, Hernandez and Sims",True,2024-08-10
+PROD_0204,Self-enabling hybrid policy,Beauty,Bath & Body,Gonzalez Inc,310.4,633.67,510,Harris-Leach,False,2024-09-23
+PROD_0205,Realigned 5thgeneration analyzer,Beauty,Fragrance,Owens Inc,35.18,55.01,140,Wilcox Group,False,2024-03-06
+PROD_0206,Switchable non-volatile array,Clothing,Accessories,Young Inc,128.33,319.84,556,Payne Inc,True,2025-05-11
+PROD_0207,Fundamental client-driven forecast,Sports,Team Sports,Graham-Riggs,242.44,537.21,352,Jefferson PLC,False,2025-04-07
+PROD_0208,Profit-focused logistical approach,Sports,Team Sports,"Dennis, Thompson and Russell",94.01,151.78,224,"Warren, Owens and Drake",True,2024-10-14
+PROD_0209,Assimilated composite project,Home,Furniture,"Torres, Oneill and Bennett",405.28,734.85,366,Andrade Group,True,2025-02-07
+PROD_0210,Devolved multimedia initiative,Clothing,Men,Brown-Jefferson,127.69,193.26,546,Gomez-Ward,True,2024-03-31
+PROD_0211,Stand-alone regional initiative,Clothing,Accessories,"Johnson, Hoover and Santos",424.02,948.37,363,Jones Group,True,2024-03-27
+PROD_0212,Visionary eco-centric task-force,Clothing,Women,Davidson-White,298.3,670.6,714,Reed LLC,False,2025-04-22
+PROD_0213,Pre-emptive well-modulated conglomeration,Beauty,Skincare,"Perez, Merritt and Drake",353.21,585.33,581,Bell-Lane,True,2025-02-11
+PROD_0214,Ameliorated web-enabled strategy,Beauty,Makeup,Shields Group,419.16,944.59,993,"Trujillo, Cook and Shaw",False,2024-12-09
+PROD_0215,Upgradable discrete conglomeration,Beauty,Haircare,Cunningham Inc,91.9,114.82,57,"Duran, Davis and Pierce",True,2025-05-17
+PROD_0216,Organic asymmetric algorithm,Beauty,Makeup,Byrd LLC,14.86,27.07,339,Sims-Torres,True,2024-11-09
+PROD_0217,Managed bifurcated complexity,Clothing,Kids,Cross-Pittman,359.88,861.7,864,Ryan Ltd,False,2023-12-06
+PROD_0218,Reactive optimizing approach,Electronics,Smartphones,Henderson Ltd,78.12,165.31,145,"Fitzgerald, Jackson and Andrews",True,2025-06-18
+PROD_0219,Phased content-based standardization,Beauty,Haircare,"Irwin, Smith and Buchanan",480.48,809.93,964,"Gray, Collins and Bradford",False,2024-05-19
+PROD_0220,Organic incremental knowledgebase,Beauty,Skincare,Anthony-Jackson,171.6,277.89,999,Rodriguez LLC,True,2025-04-19
+PROD_0221,Monitored client-server functionalities,Sports,Yoga,Smith Ltd,326.34,465.51,991,White PLC,False,2024-05-30
+PROD_0222,Cross-platform uniform Graphical User Interface,Clothing,Accessories,Kerr and Sons,408.15,690.55,751,"Griffin, Miller and Williams",False,2024-03-25
+PROD_0223,Grass-roots methodical solution,Clothing,Women,"Brown, Payne and Adams",365.77,890.07,971,Hernandez-Gates,False,2025-01-26
+PROD_0224,Pre-emptive user-facing middleware,Beauty,Skincare,Valencia-Taylor,95.13,153.51,828,Smith Ltd,True,2024-11-05
+PROD_0225,User-centric mission-critical workforce,Beauty,Skincare,Kaufman and Sons,468.66,648.08,763,Allen Group,True,2024-07-29
+PROD_0226,Optimized background task-force,Clothing,Kids,Stafford-Riley,491.28,696.76,906,Stewart Ltd,True,2024-03-26
+PROD_0227,Integrated secondary toolset,Home,Decor,"Orr, Winters and Marquez",10.64,15.67,709,Randolph Inc,True,2024-08-12
+PROD_0228,Horizontal mission-critical conglomeration,Home,Bedding,"Sanchez, Mendez and Davis",394.57,843.01,49,Gardner Group,False,2024-12-23
+PROD_0229,Ergonomic neutral task-force,Sports,Yoga,"Castro, Perry and Harrington",484.71,1139.03,504,"Montgomery, Aguilar and Allison",False,2024-08-16
+PROD_0230,Ameliorated tangible Internet solution,Home,Garden,Kelly-Kirk,190.8,434.54,807,"Fischer, Short and Hernandez",True,2024-02-22
+PROD_0231,Profound global circuit,Clothing,Shoes,Vargas-Jones,41.49,95.41,301,"Lee, Smith and Perry",True,2025-05-13
+PROD_0232,Re-engineered coherent methodology,Home,Bedding,Wilson-Tyler,476.07,617.21,174,Scott and Sons,False,2023-11-15
+PROD_0233,Expanded zero-defect monitoring,Clothing,Men,Vasquez and Sons,275.79,652.95,95,Barber PLC,False,2025-06-12
+PROD_0234,Virtual explicit Graphical User Interface,Beauty,Bath & Body,"Nash, Howard and Lopez",447.15,946.11,441,Reed and Sons,True,2025-10-29
+PROD_0235,Networked object-oriented Internet solution,Beauty,Fragrance,Guerra-Cummings,82.77,110.22,210,"Andrade, Simmons and Gallegos",True,2024-12-16
+PROD_0236,Synergistic transitional circuit,Sports,Cycling,"Sharp, Wilson and Bishop",362.41,778.81,271,Taylor-Fletcher,False,2024-04-30
+PROD_0237,Re-contextualized grid-enabled Internet solution,Home,Kitchen,Clark-Harris,52.48,89.78,562,Marquez-Moore,False,2024-01-11
+PROD_0238,Operative multi-state matrices,Clothing,Men,"Chandler, Sanders and Woods",183.61,322.4,301,Tate-Huerta,False,2025-09-15
+PROD_0239,Exclusive optimal database,Clothing,Men,"Peterson, House and Stanton",17.74,25.23,298,"Hunter, Alvarez and Gibson",True,2025-06-30
+PROD_0240,Versatile system-worthy neural-net,Sports,Fitness,Mccoy LLC,157.63,270.6,500,Mercado-Andrews,False,2024-03-03
+PROD_0241,Secured directional success,Electronics,Cameras,"Carrillo, Cox and Butler",196.83,331.13,390,"Taylor, Reynolds and Dawson",False,2025-01-20
+PROD_0242,Networked hybrid methodology,Clothing,Shoes,Scott-Brown,27.09,47.99,269,"Conley, Bird and Berry",True,2025-10-06
+PROD_0243,Automated cohesive toolset,Home,Garden,"Olson, Smith and Waller",35.51,77.34,683,"Williams, Adkins and Brady",True,2024-06-16
+PROD_0244,Profound fresh-thinking capacity,Electronics,Tablets,Dalton-Kemp,405.05,704.05,774,Garcia PLC,True,2025-06-06
+PROD_0245,Polarized full-range frame,Beauty,Skincare,"Keith, Moore and Ray",421.19,953.54,428,"Miller, Bradshaw and Hernandez",False,2025-05-31
+PROD_0246,De-engineered mobile neural-net,Beauty,Makeup,Murphy-Powell,240.75,313.61,924,"Nunez, Brown and Cox",True,2025-09-23
+PROD_0247,Multi-lateral methodical focus group,Beauty,Bath & Body,Thompson LLC,450.73,1009.9,693,Santana PLC,True,2024-06-12
+PROD_0248,Versatile mission-critical concept,Electronics,Headphones,Gonzalez-Allen,90.58,224.61,995,Hansen-Andrews,True,2025-06-17
+PROD_0249,Synergistic context-sensitive matrices,Clothing,Women,Cox-Jenkins,26.12,34.01,699,Holmes-Herrera,False,2025-04-13
+PROD_0250,Ameliorated discrete forecast,Clothing,Women,Eaton Ltd,417.88,641.55,932,"Griffin, Robertson and Cannon",True,2024-08-06
+PROD_0251,Customer-focused zero administration moderator,Electronics,Headphones,Branch-Gregory,280.4,537.71,877,Williams Ltd,False,2025-02-06
+PROD_0252,Horizontal bi-directional array,Beauty,Fragrance,"Carter, Little and Mejia",459.0,558.18,717,"Craig, Garrett and Espinoza",False,2024-12-31
+PROD_0253,Optional discrete throughput,Electronics,Headphones,"Stewart, Robinson and Barker",79.07,153.12,596,"Thomas, Carter and Franklin",True,2023-12-03
+PROD_0254,Reverse-engineered dedicated intranet,Electronics,Cameras,Todd Ltd,390.87,868.31,888,West Ltd,False,2025-01-14
+PROD_0255,Persistent well-modulated time-frame,Sports,Team Sports,Watkins Group,194.61,356.38,623,"Martin, Burke and Villanueva",False,2024-12-14
+PROD_0256,Synergistic disintermediate moderator,Electronics,Laptops,"Jones, Boyer and Herrera",141.33,196.03,623,"Dunlap, Fuentes and Brown",False,2025-04-24
+PROD_0257,Re-engineered attitude-oriented parallelism,Electronics,Headphones,"Blair, Sanders and Sullivan",445.34,726.32,243,Walker Inc,True,2024-12-24
+PROD_0258,Organized interactive focus group,Sports,Team Sports,Lawson-Martin,449.03,550.65,837,Mccoy Ltd,False,2025-11-12
+PROD_0259,Cross-platform logistical collaboration,Home,Bedding,Sanchez-Allen,422.21,977.71,701,"Hoffman, Newton and Murphy",True,2023-11-22
+PROD_0260,Function-based system-worthy conglomeration,Clothing,Women,"Schmidt, Lewis and Petersen",153.74,333.13,792,Bentley-Moreno,False,2025-03-31
+PROD_0261,Phased foreground installation,Home,Decor,"Ruiz, Ramsey and Horne",304.46,400.69,452,"Williams, Gonzalez and Griffin",True,2024-12-05
+PROD_0262,Open-source grid-enabled moratorium,Sports,Yoga,Brown PLC,380.95,886.6,840,"Bridges, Alvarez and Blair",True,2025-10-27
+PROD_0263,Exclusive bottom-line approach,Beauty,Makeup,"Sanders, Duran and Galvan",37.48,79.55,413,Robinson PLC,True,2025-08-08
+PROD_0264,Progressive tangible frame,Beauty,Bath & Body,Lynch PLC,19.33,28.04,852,Ramsey PLC,True,2024-10-01
+PROD_0265,Programmable zero administration parallelism,Electronics,Laptops,Davis-Holt,21.37,27.05,369,Cervantes Inc,True,2024-02-28
+PROD_0266,Operative 3rdgeneration customer loyalty,Home,Bedding,"Turner, Williams and Johnston",412.64,766.13,650,Vaughan-Williams,True,2024-08-21
+PROD_0267,Versatile context-sensitive Local Area Network,Electronics,Laptops,Lowe PLC,189.37,373.49,181,Carey-Wagner,False,2023-12-22
+PROD_0268,Intuitive encompassing interface,Beauty,Bath & Body,Green-Martinez,178.13,251.62,915,"Thompson, Klein and Clark",False,2025-03-31
+PROD_0269,Enhanced grid-enabled functionalities,Electronics,Tablets,"Gutierrez, Wright and Brown",18.59,23.51,874,"Mckay, Cole and Greene",True,2024-04-10
+PROD_0270,Front-line intermediate frame,Clothing,Women,Sanders Group,340.46,527.65,419,Pollard-Williams,True,2024-11-05
+PROD_0271,Multi-layered intermediate success,Electronics,Headphones,Garrett Group,456.2,931.37,615,Ramirez LLC,True,2024-10-26
+PROD_0272,Cross-platform human-resource secured line,Clothing,Kids,"Gilbert, Baker and Case",306.13,742.64,729,Erickson Inc,False,2025-10-06
+PROD_0273,Synergistic directional functionalities,Sports,Yoga,Williams-Lucero,426.54,766.36,223,Ayers-Sutton,False,2023-11-20
+PROD_0274,Synchronized multi-tasking hardware,Home,Garden,"Francis, Smith and Ochoa",413.03,708.88,104,"Williams, Miles and Barker",True,2024-01-30
+PROD_0275,Synergized optimal knowledgebase,Beauty,Haircare,Brown Ltd,282.92,557.89,289,Hogan Ltd,False,2025-10-15
+PROD_0276,Balanced grid-enabled success,Electronics,Headphones,Rojas Group,36.6,90.95,655,Ray-Willis,False,2024-10-16
+PROD_0277,Integrated foreground data-warehouse,Home,Bedding,Durham Inc,329.78,803.95,667,Riggs-Sherman,False,2024-11-18
+PROD_0278,Triple-buffered systemic infrastructure,Clothing,Women,Jackson-Richardson,261.06,394.83,58,"Hoffman, Harrington and Lucas",False,2025-03-25
+PROD_0279,Enterprise-wide bi-directional forecast,Home,Kitchen,"Dalton, Banks and Jones",362.04,742.91,302,"Edwards, Goodman and Ward",False,2024-10-13
+PROD_0280,Fully-configurable homogeneous matrices,Sports,Yoga,Clark-Andrews,197.2,245.69,725,Cox-Jackson,True,2025-01-20
+PROD_0281,Enterprise-wide intangible implementation,Home,Kitchen,"Skinner, Smith and Raymond",344.73,699.74,487,Leach-Lopez,False,2025-10-02
+PROD_0282,Operative fresh-thinking portal,Beauty,Haircare,Mendez LLC,423.48,970.97,897,Green and Sons,True,2024-08-27
+PROD_0283,Configurable scalable methodology,Home,Furniture,"Curry, Powell and Holmes",238.04,514.93,742,"Greene, Barnes and Jones",True,2025-02-11
+PROD_0284,Customizable zero-defect hub,Home,Furniture,Johnson-Shelton,115.02,171.42,892,"Cabrera, Wong and Johnson",False,2024-06-28
+PROD_0285,Managed non-volatile function,Sports,Team Sports,Keller-Phillips,188.98,370.64,474,Mosley Inc,True,2025-04-14
+PROD_0286,Progressive analyzing protocol,Sports,Fitness,Brown LLC,433.86,849.78,966,Preston PLC,True,2024-12-17
+PROD_0287,Cloned 3rdgeneration framework,Sports,Outdoor,Walker-Alvarado,252.74,588.31,390,"Green, Anderson and Porter",False,2024-03-16
+PROD_0288,Centralized multi-tasking open architecture,Sports,Fitness,Vincent-Ray,436.07,608.76,205,Logan Group,False,2025-02-03
+PROD_0289,Sharable transitional parallelism,Sports,Cycling,Clark Group,446.96,1109.64,146,"Sanchez, Thompson and Wright",False,2024-10-13
+PROD_0290,Organic upward-trending system engine,Clothing,Men,Potter LLC,246.35,497.71,181,Lowe-Adams,False,2025-01-02
+PROD_0291,Assimilated client-server groupware,Electronics,Smartphones,Thompson Ltd,228.77,336.79,792,Sloan-Russell,True,2025-08-31
+PROD_0292,Focused 24/7 system engine,Beauty,Makeup,"Fernandez, Norton and Stanley",247.34,542.33,90,Gordon Ltd,True,2025-02-17
+PROD_0293,Object-based solution-oriented Graphic Interface,Beauty,Fragrance,Hughes-Martinez,318.58,549.36,988,"Anderson, Ferguson and Little",False,2025-01-10
+PROD_0294,Configurable tertiary help-desk,Sports,Fitness,Carey Inc,23.67,34.54,382,Stewart-Good,True,2024-12-10
+PROD_0295,Diverse real-time help-desk,Home,Garden,Allen-Brown,99.34,206.6,641,Moore Inc,True,2024-02-24
+PROD_0296,Extended user-facing leverage,Clothing,Kids,"Allen, Hill and Logan",159.49,212.68,515,Lopez Group,False,2023-12-17
+PROD_0297,Vision-oriented full-range migration,Clothing,Men,Padilla-Sims,412.8,655.39,297,"Stewart, Torres and Gibson",False,2025-08-02
+PROD_0298,Vision-oriented mobile architecture,Beauty,Bath & Body,Norman-Underwood,264.44,466.41,703,Reese Group,True,2025-03-20
+PROD_0299,Re-engineered static database,Home,Decor,Alvarez Inc,182.83,264.18,970,Navarro-Eaton,False,2025-02-17
+PROD_0300,Proactive hybrid array,Electronics,Laptops,Weaver LLC,116.04,287.82,216,"Collins, Hale and Hardy",True,2025-08-20
+PROD_0301,Proactive national functionalities,Beauty,Bath & Body,"Black, Martin and Rivera",88.65,148.63,666,"Barnes, Rivera and Griffith",True,2024-08-03
+PROD_0302,Optional 6thgeneration projection,Sports,Team Sports,"Clark, Berry and Trevino",386.77,777.44,608,Collins and Sons,True,2024-07-11
+PROD_0303,Enhanced even-keeled time-frame,Electronics,Smartphones,"Duran, Herring and Myers",28.88,39.0,454,"Alexander, Williams and Adams",False,2025-05-29
+PROD_0304,Public-key multimedia algorithm,Electronics,Cameras,White LLC,130.11,274.85,210,Blackwell LLC,True,2024-03-16
+PROD_0305,Managed regional extranet,Home,Decor,Bates-Walton,332.52,685.4,276,Kane-Keller,True,2025-06-08
+PROD_0306,Programmable tangible neural-net,Sports,Fitness,"Mcfarland, Lewis and Patterson",258.23,517.24,289,Hoover-Jones,True,2024-05-31
+PROD_0307,Face-to-face homogeneous pricing structure,Electronics,Headphones,"Diaz, Greene and Nelson",103.33,150.83,269,"Foley, Rodriguez and Hess",True,2024-04-13
+PROD_0308,Robust disintermediate instruction set,Home,Decor,"Saunders, Cooper and Gould",151.2,189.19,508,Chavez-Mayer,True,2024-12-19
+PROD_0309,Fully-configurable interactive model,Sports,Team Sports,Young Inc,121.08,147.3,91,Sharp Ltd,True,2025-03-21
+PROD_0310,Organized 4thgeneration forecast,Beauty,Fragrance,"Nixon, Dougherty and Rivera",78.83,103.83,523,Burton-Ramos,True,2025-03-14
+PROD_0311,Centralized multi-state implementation,Electronics,Tablets,"Perez, Richards and Craig",323.95,581.09,1000,"Stephens, Yates and Kidd",False,2025-09-27
+PROD_0312,Exclusive 24hour info-mediaries,Home,Decor,Cochran-Young,29.79,67.24,895,Williams-Abbott,True,2024-12-03
+PROD_0313,Organized optimal intranet,Home,Bedding,Yang-Huff,401.79,645.48,756,Cobb-Miller,True,2025-09-12
+PROD_0314,Inverse homogeneous workforce,Electronics,Smartphones,"Fuller, Baker and Cummings",9.79,13.51,662,"Caldwell, Martinez and Berry",True,2025-07-28
+PROD_0315,Organized object-oriented functionalities,Home,Bedding,Castillo LLC,447.79,1093.33,274,Lopez and Sons,True,2024-02-11
+PROD_0316,Seamless client-server encoding,Home,Bedding,"Perez, Espinoza and Bridges",95.52,164.39,985,Santana and Sons,False,2024-06-02
+PROD_0317,Decentralized stable policy,Home,Decor,"Bradley, Vasquez and Rice",346.5,631.23,431,Howard-Jones,True,2024-02-17
+PROD_0318,Implemented 3rdgeneration parallelism,Electronics,Laptops,Caldwell-Bell,349.6,446.17,965,Villanueva LLC,True,2025-08-04
+PROD_0319,Synergized bifurcated contingency,Electronics,Headphones,"Miller, Martinez and Jensen",456.06,833.44,582,Jones LLC,False,2024-09-13
+PROD_0320,Down-sized motivating alliance,Clothing,Accessories,Jacobs-Clark,192.98,321.54,29,Ramirez-Sloan,True,2024-02-18
+PROD_0321,Versatile leadingedge hierarchy,Sports,Yoga,"Morgan, Mcmillan and Myers",60.9,105.64,47,"Gutierrez, Crawford and Andrews",True,2024-08-12
+PROD_0322,Cross-platform tertiary middleware,Home,Bedding,Riley Group,11.12,25.9,537,Berg-Hampton,True,2025-08-16
+PROD_0323,Centralized responsive collaboration,Home,Garden,Mills-Johnson,263.94,557.11,97,Spencer-Cobb,False,2023-12-27
+PROD_0324,Virtual context-sensitive flexibility,Clothing,Shoes,Cummings-Mccullough,176.15,366.25,394,Greer-Richards,True,2025-03-16
+PROD_0325,Assimilated regional alliance,Beauty,Bath & Body,"Garcia, Fitzgerald and Reilly",32.01,65.19,160,Jackson Inc,False,2024-10-18
+PROD_0326,Upgradable real-time neural-net,Sports,Outdoor,Collins-Knapp,42.06,77.35,246,"Miller, Newman and Barron",False,2024-12-29
+PROD_0327,Ameliorated discrete policy,Home,Furniture,Klein Ltd,255.93,490.27,387,Ewing-Welch,False,2025-04-29
+PROD_0328,Robust exuding hub,Clothing,Men,"Hernandez, Burns and Reeves",232.25,520.62,458,Fisher LLC,True,2025-09-06
+PROD_0329,Diverse attitude-oriented customer loyalty,Sports,Yoga,"Rowland, Blair and Sanchez",161.45,399.57,763,Elliott PLC,True,2024-01-11
+PROD_0330,Polarized tangible process improvement,Electronics,Headphones,Scott Ltd,209.11,402.38,0,Watkins-Hall,True,2025-09-25
+PROD_0331,Mandatory system-worthy standardization,Beauty,Bath & Body,"Phillips, Michael and Hall",320.58,755.65,575,Blair-Jackson,True,2024-11-12
+PROD_0332,Inverse full-range implementation,Sports,Team Sports,Rodriguez-Mack,184.85,234.86,228,Benson-Valencia,False,2024-12-19
+PROD_0333,Face-to-face bottom-line benchmark,Home,Garden,"Harris, Nunez and Wall",384.87,762.02,733,Walker-Sanchez,False,2025-02-14
+PROD_0334,Enhanced content-based workforce,Sports,Fitness,White and Sons,53.23,109.47,2,Foster Group,False,2024-10-11
+PROD_0335,Centralized transitional protocol,Home,Bedding,Porter and Sons,276.11,465.54,108,Hoffman-Bush,True,2025-09-07
+PROD_0336,Automated zero administration protocol,Clothing,Shoes,"Frank, Barajas and Wright",74.52,158.87,738,Maldonado-Carney,False,2025-09-13
+PROD_0337,Innovative actuating process improvement,Electronics,Tablets,"Mcgrath, Hodges and Smith",307.37,443.78,952,Hurley-Frank,False,2025-01-21
+PROD_0338,Cross-group transitional hierarchy,Clothing,Shoes,Johnson-Miller,413.15,598.14,346,Dickerson-Campos,True,2024-10-14
+PROD_0339,Decentralized leadingedge superstructure,Sports,Fitness,"Lewis, Allen and Villa",463.68,1061.23,602,Bernard-Weber,True,2024-09-16
+PROD_0340,Compatible background open architecture,Sports,Yoga,Roberts-Ramirez,330.94,808.5,137,"Page, Martin and Torres",False,2024-12-25
+PROD_0341,Configurable real-time info-mediaries,Electronics,Cameras,Mendoza PLC,369.43,709.01,443,"Bray, Moreno and Clay",False,2025-05-21
+PROD_0342,Universal solution-oriented synergy,Beauty,Makeup,"Rice, Stevenson and Harris",347.45,495.38,834,Lee LLC,True,2025-09-28
+PROD_0343,Enterprise-wide secondary artificial intelligence,Electronics,Headphones,"Snyder, Murphy and Davis",330.47,656.98,329,Stephenson-Hernandez,False,2025-05-22
+PROD_0344,Automated real-time success,Sports,Cycling,"Montgomery, Carter and Martinez",458.38,1004.35,280,Atkins Ltd,False,2024-01-25
+PROD_0345,Fundamental tertiary portal,Home,Bedding,Clark and Sons,229.16,314.72,422,Wade Inc,False,2025-05-16
+PROD_0346,Fundamental tangible interface,Beauty,Haircare,"Russell, Parks and Johnson",357.38,863.49,647,Fletcher LLC,True,2024-08-10
+PROD_0347,Decentralized client-server conglomeration,Clothing,Women,Hernandez-Murphy,313.96,495.35,353,Williams Ltd,True,2024-07-20
+PROD_0348,Object-based bi-directional instruction set,Clothing,Accessories,Watts-Eaton,273.53,554.7,727,Young-Robinson,True,2025-07-11
+PROD_0349,Grass-roots modular extranet,Home,Garden,Robinson Ltd,242.78,471.44,683,"Clark, Turner and Scott",False,2024-08-24
+PROD_0350,Robust local concept,Beauty,Haircare,"Tucker, Myers and Lopez",439.35,768.47,13,Lee-Bryant,True,2024-03-02
+PROD_0351,Organized impactful collaboration,Electronics,Headphones,Grant Group,76.94,159.37,204,Porter-Tapia,False,2025-07-30
+PROD_0352,Public-key disintermediate data-warehouse,Clothing,Kids,"Lloyd, Garcia and Anderson",343.28,477.28,63,Avery Group,False,2025-03-27
+PROD_0353,Vision-oriented disintermediate model,Clothing,Accessories,Newton-Gonzalez,20.99,47.4,104,Williams-Tucker,True,2024-05-15
+PROD_0354,Grass-roots 24/7 open architecture,Beauty,Fragrance,Clements-Hall,122.61,272.15,817,Herrera Inc,False,2025-10-27
+PROD_0355,Extended bandwidth-monitored installation,Electronics,Headphones,"Quinn, Flores and Boyd",196.84,481.02,999,"Werner, Mendez and Bishop",False,2025-01-14
+PROD_0356,Team-oriented uniform policy,Beauty,Skincare,Rogers-Oliver,11.42,17.44,635,"Wise, Copeland and Mccullough",False,2024-05-24
+PROD_0357,Compatible user-facing policy,Clothing,Kids,Ruiz Inc,378.78,723.7,617,Ward-Moore,True,2025-06-09
+PROD_0358,Multi-channeled context-sensitive concept,Clothing,Kids,"Hernandez, Jones and Hunt",227.16,563.01,76,"Walls, Bates and Livingston",True,2024-04-25
+PROD_0359,Customer-focused multi-tasking interface,Clothing,Accessories,Long Inc,64.08,80.28,285,Jones Inc,False,2024-11-15
+PROD_0360,Profound bi-directional analyzer,Clothing,Women,Little-Estrada,294.07,450.37,338,Allen Inc,False,2024-01-22
+PROD_0361,Reactive client-driven productivity,Clothing,Men,Baker-Vazquez,81.08,131.3,52,Thompson-Salazar,False,2025-03-27
+PROD_0362,Multi-channeled bandwidth-monitored frame,Sports,Cycling,Thompson PLC,277.33,359.07,724,"Stone, Faulkner and Lee",False,2025-08-04
+PROD_0363,Grass-roots leadingedge customer loyalty,Beauty,Makeup,"Bowers, Walton and Mcgee",478.71,898.44,805,Cruz PLC,True,2025-07-22
+PROD_0364,Persevering bi-directional budgetary management,Sports,Cycling,"Schwartz, Snyder and Hill",270.83,357.37,226,Anderson Inc,True,2024-07-21
+PROD_0365,Robust fault-tolerant orchestration,Home,Bedding,"Valenzuela, Jones and Schneider",183.59,272.44,770,Hall PLC,False,2024-07-20
+PROD_0366,Cross-platform value-added productivity,Beauty,Skincare,Dennis Inc,61.79,101.94,246,"Avila, Jacobs and Miranda",True,2025-08-24
+PROD_0367,Total zero tolerance throughput,Electronics,Tablets,Farrell Group,193.78,433.11,116,Fletcher PLC,False,2024-03-04
+PROD_0368,Focused transitional challenge,Home,Garden,Paul-Arias,363.37,447.71,529,Wood-Hurley,False,2025-07-03
+PROD_0369,Compatible systemic Local Area Network,Beauty,Bath & Body,Mason-Bradford,225.55,283.52,919,Patterson-Duarte,True,2025-09-16
+PROD_0370,Synergized upward-trending website,Home,Garden,Shaffer and Sons,45.76,60.62,994,"Young, Smith and Cortez",True,2024-03-14
+PROD_0371,Virtual hybrid algorithm,Electronics,Laptops,Bowman-Sparks,336.82,742.91,885,"Bryan, Smith and Mckay",False,2024-04-22
+PROD_0372,Persistent clear-thinking approach,Electronics,Laptops,Martinez PLC,271.19,573.18,999,Gardner and Sons,False,2024-02-27
+PROD_0373,Decentralized neutral archive,Electronics,Laptops,Hodges-Gonzales,16.76,35.73,38,Todd-Goodwin,True,2023-12-07
+PROD_0374,Team-oriented encompassing flexibility,Electronics,Smartphones,Cantrell-Young,93.11,142.22,72,Johnson-Murphy,True,2025-10-17
+PROD_0375,Horizontal maximized projection,Home,Decor,Luna Group,197.08,397.96,443,"Flores, Harris and Smith",False,2024-12-27
+PROD_0376,Distributed clear-thinking interface,Electronics,Headphones,"Scott, Walker and Castillo",338.28,641.14,656,Brown Ltd,True,2024-08-17
+PROD_0377,Total background Internet solution,Beauty,Skincare,Morales-Clark,351.94,455.54,950,Sanchez Group,True,2024-06-19
+PROD_0378,Function-based national circuit,Home,Bedding,Mann-Hall,305.25,478.01,948,Murray-Hogan,False,2025-10-19
+PROD_0379,Fully-configurable actuating forecast,Sports,Yoga,Clark-Deleon,411.95,510.84,160,"Oliver, Owens and Ward",True,2024-08-18
+PROD_0380,Optional static capacity,Clothing,Shoes,Johnson and Sons,399.4,920.34,302,Dixon-James,True,2024-04-07
+PROD_0381,Front-line analyzing architecture,Home,Bedding,Sanchez and Sons,478.91,581.63,895,"Robinson, Mcmahon and Church",True,2025-02-06
+PROD_0382,Assimilated coherent architecture,Electronics,Smartphones,Baker LLC,7.49,14.8,550,"Lewis, Craig and Munoz",True,2025-06-29
+PROD_0383,Function-based grid-enabled initiative,Home,Kitchen,Davidson LLC,375.41,891.45,352,York Ltd,True,2024-09-02
+PROD_0384,Public-key upward-trending archive,Sports,Cycling,Moss Inc,75.52,108.69,631,Ware-Stark,False,2024-06-03
+PROD_0385,Self-enabling dynamic circuit,Clothing,Men,"Castillo, Le and Cooper",94.77,212.24,872,Cox LLC,True,2025-04-09
+PROD_0386,Customer-focused zero administration capability,Beauty,Fragrance,"Armstrong, Tate and Perkins",324.11,419.75,687,"Fox, Smith and Roy",True,2023-11-27
+PROD_0387,Enhanced incremental definition,Home,Furniture,"Miller, Thomas and Perez",102.72,200.79,974,Ferguson Ltd,False,2024-09-05
+PROD_0388,Cross-group next generation superstructure,Home,Kitchen,"Wagner, Fuller and Haley",337.29,507.59,291,"Powers, Jones and Sanchez",True,2024-07-03
+PROD_0389,Front-line heuristic focus group,Clothing,Kids,Rodriguez-Young,245.5,399.39,675,Vargas-Bryant,False,2024-06-19
+PROD_0390,Object-based heuristic analyzer,Beauty,Makeup,"Williams, Peterson and Perkins",284.95,476.96,323,"Wall, Gates and Howell",False,2025-11-11
+PROD_0391,Cross-platform maximized projection,Clothing,Men,Powers Group,160.04,355.51,729,Johnston LLC,False,2024-04-23
+PROD_0392,Visionary asymmetric archive,Home,Bedding,"Lucas, Perez and Reed",71.48,153.89,898,Yoder LLC,False,2023-11-27
+PROD_0393,Profound 3rdgeneration contingency,Sports,Yoga,"Rodriguez, Martinez and Butler",182.58,291.6,564,"Norris, Mitchell and Rodriguez",True,2024-08-14
+PROD_0394,Cross-group scalable frame,Clothing,Accessories,"Daugherty, Reid and Dean",45.58,71.32,846,"Mays, Butler and Sawyer",True,2025-01-07
+PROD_0395,Customer-focused even-keeled installation,Beauty,Makeup,"Hawkins, Watson and Cooper",135.3,318.26,78,Hayes-Alvarado,True,2024-08-07
+PROD_0396,Switchable optimizing migration,Electronics,Cameras,Palmer Group,317.66,716.78,592,Meadows LLC,False,2024-08-02
+PROD_0397,Focused systemic parallelism,Beauty,Makeup,Lewis LLC,453.62,869.62,556,"Orr, Reyes and Woodward",False,2024-07-10
+PROD_0398,Switchable multi-tasking customer loyalty,Clothing,Kids,Townsend Inc,199.29,470.1,603,"Simon, Robinson and Perez",False,2024-10-09
+PROD_0399,Compatible methodical attitude,Clothing,Shoes,Brown-Barnes,253.06,333.46,372,Rodriguez Group,True,2025-01-07
+PROD_0400,Customer-focused asymmetric architecture,Clothing,Accessories,"Gutierrez, Graham and Chase",343.66,750.68,143,Williams-Buckley,False,2024-01-01
+PROD_0401,Customizable needs-based product,Clothing,Women,Carter-Jensen,285.35,552.31,893,"Hart, Moses and Schmidt",True,2025-11-08
+PROD_0402,Fundamental contextually-based product,Sports,Team Sports,Hines-Jones,25.01,54.77,237,Daniel-Walker,True,2024-08-20
+PROD_0403,Networked tertiary hardware,Home,Bedding,Torres-Armstrong,120.84,250.04,530,"Perez, Armstrong and Lee",False,2025-01-23
+PROD_0404,Virtual 4thgeneration database,Sports,Yoga,Warren-Reed,459.36,1077.67,40,"Anderson, Wilson and Marsh",False,2024-04-02
+PROD_0405,Monitored eco-centric conglomeration,Electronics,Cameras,Hernandez Ltd,318.62,495.63,759,Perkins Ltd,False,2024-07-15
+PROD_0406,Centralized explicit algorithm,Beauty,Bath & Body,King PLC,287.23,485.32,387,Gonzalez and Sons,False,2024-10-11
+PROD_0407,User-friendly content-based monitoring,Beauty,Skincare,Spencer-Green,260.75,440.47,929,"Le, Davis and Briggs",True,2024-04-13
+PROD_0408,Configurable 3rdgeneration forecast,Beauty,Fragrance,Robertson-Scott,179.68,418.3,498,White-Arias,False,2024-09-18
+PROD_0409,Phased didactic contingency,Beauty,Skincare,"Powell, Garza and Robinson",253.41,349.87,169,"Miller, Morgan and Walker",True,2024-12-08
+PROD_0410,Configurable local analyzer,Electronics,Cameras,Taylor-Mclaughlin,323.52,477.18,191,"West, Williams and Ortiz",True,2025-02-01
+PROD_0411,Automated bi-directional architecture,Home,Garden,"Murphy, Hansen and Davis",360.06,487.46,235,Smith Inc,False,2024-06-12
+PROD_0412,Decentralized attitude-oriented challenge,Home,Furniture,Warren Ltd,243.35,443.5,215,Kaiser-Smith,True,2024-06-20
+PROD_0413,Down-sized neutral orchestration,Sports,Fitness,"Klein, Anderson and Martinez",125.62,171.63,606,Hughes Ltd,True,2025-01-04
+PROD_0414,Re-engineered stable challenge,Clothing,Accessories,"Clarke, Coleman and Erickson",24.4,47.43,57,Perez-West,True,2024-09-18
+PROD_0415,De-engineered responsive standardization,Home,Kitchen,"Frye, Davis and Graham",260.74,450.32,992,Taylor-Goodman,True,2025-09-04
+PROD_0416,Integrated next generation pricing structure,Home,Furniture,Crawford-Peters,112.21,223.13,482,"Brown, Ford and Stark",False,2024-04-06
+PROD_0417,Adaptive interactive hierarchy,Clothing,Women,Harris-Harris,416.03,824.19,813,Adams PLC,True,2024-02-02
+PROD_0418,Synergistic eco-centric secured line,Beauty,Bath & Body,Schmidt-Smith,135.94,291.11,350,Warren-Peters,False,2025-05-31
+PROD_0419,Distributed coherent projection,Beauty,Bath & Body,Hall LLC,39.08,66.11,135,Taylor-Thompson,True,2024-02-17
+PROD_0420,Profit-focused system-worthy ability,Electronics,Laptops,Horton and Sons,263.74,628.27,700,Turner-Cruz,False,2025-08-31
+PROD_0421,Innovative bandwidth-monitored workforce,Clothing,Accessories,"Gillespie, Smith and Green",52.67,95.79,629,Smith and Sons,True,2024-12-18
+PROD_0422,Reactive dynamic installation,Beauty,Bath & Body,Peterson and Sons,377.43,498.64,675,Wilson-Hicks,True,2024-08-06
+PROD_0423,Cross-group local instruction set,Beauty,Bath & Body,"Henson, Wilson and Woods",414.62,981.02,793,Mendoza-Ruiz,False,2024-10-18
+PROD_0424,Open-architected multimedia emulation,Beauty,Fragrance,Hunt-Smith,188.34,236.64,542,Garcia-Hubbard,False,2024-10-16
+PROD_0425,Profit-focused coherent implementation,Clothing,Shoes,"Summers, Delacruz and Miller",395.83,671.17,603,Bass-Novak,True,2023-12-08
+PROD_0426,Upgradable 5thgeneration migration,Sports,Outdoor,Perez Group,130.99,287.6,931,Armstrong-Miller,True,2025-11-08
+PROD_0427,Automated client-driven matrices,Home,Garden,"Brown, Ramirez and Matthews",439.0,760.01,193,"Williams, Carlson and Carroll",True,2024-03-04
+PROD_0428,Phased coherent structure,Electronics,Cameras,"Gonzales, Gibson and Greene",263.66,494.54,384,"Wright, Farmer and Fischer",True,2023-12-24
+PROD_0429,Ameliorated attitude-oriented circuit,Home,Decor,"Smith, Watson and Porter",184.32,258.27,667,"Cox, Hester and Hamilton",False,2025-03-17
+PROD_0430,Focused responsive budgetary management,Home,Garden,Roberts-Jones,214.66,359.63,282,"Barber, Jackson and Garcia",False,2025-02-22
+PROD_0431,Organized asymmetric time-frame,Clothing,Shoes,Harris and Sons,278.29,535.66,183,Little-Jones,False,2025-03-27
+PROD_0432,Visionary high-level application,Beauty,Bath & Body,"Wagner, Ramirez and Vazquez",244.46,607.5,591,Mendoza Inc,False,2024-11-30
+PROD_0433,Devolved 5thgeneration infrastructure,Sports,Outdoor,Doyle-Berger,428.22,880.88,765,"Davis, Harrington and Hines",True,2025-08-08
+PROD_0434,Enhanced neutral core,Sports,Outdoor,Christensen PLC,54.64,101.68,804,"Cooke, Hanson and Johnson",False,2024-10-04
+PROD_0435,Total tertiary access,Beauty,Bath & Body,Long Ltd,350.04,741.67,164,Campbell-Miller,False,2025-02-17
+PROD_0436,Centralized optimal superstructure,Electronics,Smartphones,Jones Group,412.51,747.95,614,Peterson LLC,False,2024-01-18
+PROD_0437,Multi-layered static encryption,Electronics,Smartphones,Williams Ltd,135.23,227.47,623,"Johnson, Johnston and Fowler",True,2024-12-15
+PROD_0438,Open-source interactive flexibility,Sports,Yoga,"Watson, Gallagher and Taylor",308.91,579.92,728,"Downs, Cooper and Figueroa",True,2025-04-20
+PROD_0439,Upgradable systematic help-desk,Clothing,Shoes,"Martinez, Tran and Moran",222.29,325.04,672,Vaughan PLC,False,2025-02-14
+PROD_0440,Optional interactive firmware,Clothing,Men,Obrien-Wheeler,393.06,732.55,715,"Smith, Pruitt and Valenzuela",True,2024-01-20
+PROD_0441,Reactive empowering synergy,Beauty,Makeup,Rodriguez-Vaughn,338.64,564.74,670,Bridges Group,True,2024-01-02
+PROD_0442,User-centric reciprocal ability,Clothing,Men,Wright and Sons,498.42,1103.29,361,"Hunter, Roberts and Sharp",False,2024-09-05
+PROD_0443,Polarized mission-critical knowledgebase,Sports,Cycling,"Cowan, Barrett and Elliott",104.15,127.06,720,"Smith, Wilson and Maldonado",True,2025-09-04
+PROD_0444,Operative composite database,Electronics,Cameras,"Gallagher, Galvan and Freeman",145.82,332.28,936,Parker-Robinson,False,2024-04-22
+PROD_0445,Organized dedicated hardware,Home,Bedding,Morrison Inc,117.02,286.93,465,Fisher Ltd,False,2023-12-12
+PROD_0446,Function-based human-resource function,Beauty,Skincare,Garcia-Rogers,134.25,232.16,109,Krueger LLC,True,2024-01-07
+PROD_0447,Multi-layered web-enabled attitude,Beauty,Haircare,"Lozano, Callahan and Foster",173.28,234.29,525,"Lopez, Lopez and Larson",False,2024-04-22
+PROD_0448,Front-line cohesive success,Beauty,Bath & Body,Howard-Freeman,128.82,228.73,386,"Swanson, Bass and Price",False,2025-02-04
+PROD_0449,Automated zero-defect alliance,Clothing,Kids,Martinez-Wright,480.81,863.78,471,"Webb, Martin and Hill",True,2024-10-30
+PROD_0450,Networked zero tolerance system engine,Sports,Fitness,Saunders-Lopez,132.62,225.12,807,Wilson-Garcia,True,2024-05-16
+PROD_0451,Reduced bi-directional contingency,Clothing,Kids,Hunt-Williams,209.15,346.99,548,Rodriguez Ltd,True,2024-10-03
+PROD_0452,Integrated mission-critical extranet,Home,Kitchen,White Ltd,147.21,253.0,766,Smith-Williams,False,2025-03-07
+PROD_0453,Persistent optimizing initiative,Electronics,Cameras,"Franco, Lee and Gutierrez",466.04,847.97,362,"Oliver, Turner and Patterson",True,2025-01-11
+PROD_0454,Stand-alone holistic process improvement,Beauty,Haircare,Miller Group,95.48,207.19,952,Newton-Gregory,True,2024-06-20
+PROD_0455,Profit-focused dedicated collaboration,Sports,Outdoor,Rivas-Hurley,121.26,183.67,271,Rodriguez-Fernandez,True,2025-05-10
+PROD_0456,Grass-roots upward-trending extranet,Clothing,Women,Duarte PLC,418.3,956.75,364,"Lee, Scott and Richardson",True,2025-04-01
+PROD_0457,Advanced maximized moratorium,Electronics,Smartphones,"Ellis, Love and Pearson",460.49,957.15,679,"Hahn, Ball and Stokes",False,2024-04-10
+PROD_0458,Multi-lateral upward-trending protocol,Beauty,Skincare,Frank PLC,383.3,729.77,43,"Mendoza, Fox and Parrish",False,2024-11-02
+PROD_0459,Synchronized fresh-thinking functionalities,Home,Garden,"Ford, Jennings and Logan",161.13,381.48,902,Sims LLC,False,2025-03-23
+PROD_0460,Ameliorated upward-trending challenge,Sports,Outdoor,"Jackson, Lopez and Schaefer",492.28,1176.95,286,Herrera Inc,False,2025-03-26
+PROD_0461,Realigned tangible core,Clothing,Accessories,Johnson LLC,68.48,128.98,433,Delacruz-Adams,False,2025-04-30
+PROD_0462,Switchable responsive framework,Beauty,Skincare,"Romero, White and Perez",253.73,434.34,702,Calhoun-Davis,True,2025-07-15
+PROD_0463,Organic cohesive workforce,Sports,Fitness,Jackson-Le,350.63,630.46,705,Hensley-Stone,True,2025-11-08
+PROD_0464,Multi-channeled client-server circuit,Electronics,Laptops,"Keller, Kirk and Taylor",192.82,256.64,370,Walker-Carr,False,2024-12-28
+PROD_0465,Ergonomic user-facing installation,Clothing,Accessories,Ramsey-Miller,135.11,209.45,981,Miles-Bullock,False,2025-08-22
+PROD_0466,Grass-roots modular architecture,Home,Kitchen,Murphy-Figueroa,251.89,371.21,717,Harris-Humphrey,False,2024-02-08
+PROD_0467,Self-enabling actuating challenge,Home,Decor,Williams PLC,143.42,205.64,134,"Howard, Mccoy and Moore",True,2023-12-06
+PROD_0468,De-engineered client-driven budgetary management,Electronics,Tablets,Lester-Raymond,403.02,774.58,876,"Wilson, Randolph and Flores",False,2024-01-19
+PROD_0469,Secured neutral adapter,Clothing,Women,"Haynes, Wallace and Hampton",401.02,866.25,484,Yoder LLC,True,2025-09-25
+PROD_0470,Universal bottom-line moratorium,Clothing,Shoes,Huang LLC,252.3,629.29,869,Castro Ltd,False,2024-05-03
+PROD_0471,Innovative bandwidth-monitored projection,Sports,Team Sports,Coleman-Ball,129.23,299.3,48,"Bishop, Knight and Saunders",False,2025-02-03
+PROD_0472,Automated asymmetric service-desk,Electronics,Laptops,Snyder and Sons,34.72,78.4,487,Wells PLC,True,2025-06-01
+PROD_0473,Programmable intermediate algorithm,Sports,Team Sports,Barnett Ltd,133.59,222.88,570,Hopkins-Mendez,False,2025-05-08
+PROD_0474,Robust motivating firmware,Home,Furniture,"Taylor, Martinez and Howe",208.82,345.89,695,Hawkins Ltd,True,2024-11-14
+PROD_0475,Robust composite flexibility,Beauty,Bath & Body,Craig-Lloyd,326.68,620.68,799,Carpenter Inc,False,2025-06-04
+PROD_0476,Integrated full-range standardization,Home,Bedding,Gonzalez Inc,338.23,620.23,754,Holt-Mcgrath,False,2025-01-31
+PROD_0477,Optional transitional matrix,Electronics,Headphones,Hale Inc,308.76,556.66,979,Smith-Dorsey,True,2024-01-21
+PROD_0478,Sharable attitude-oriented hardware,Clothing,Kids,"Kelly, Wilson and Burns",213.8,426.75,414,"Mitchell, Nguyen and Mathis",True,2025-05-29
+PROD_0479,Implemented methodical structure,Electronics,Laptops,Rojas Ltd,175.09,281.46,668,Cordova-West,False,2025-06-29
+PROD_0480,Streamlined full-range implementation,Home,Garden,"Johnson, Nunez and Mason",324.1,503.2,455,Graham PLC,False,2025-04-22
+PROD_0481,Operative demand-driven knowledge user,Beauty,Bath & Body,Adams-Hall,482.94,839.44,188,Bennett and Sons,True,2024-12-05
+PROD_0482,Configurable zero-defect frame,Clothing,Women,"James, Freeman and Francis",332.7,805.99,717,"Johnson, Ruiz and Nelson",True,2024-11-26
+PROD_0483,Function-based value-added moratorium,Clothing,Women,"Nelson, Spencer and Potts",201.54,266.88,959,Martinez-Evans,False,2025-01-07
+PROD_0484,Organized logistical throughput,Beauty,Skincare,Jackson-Terrell,18.05,30.98,783,Moss-Ho,True,2025-10-24
+PROD_0485,Visionary tertiary function,Electronics,Tablets,Norris-Oneal,310.96,407.23,953,"Oliver, Collins and James",False,2025-06-02
+PROD_0486,Monitored systematic strategy,Home,Kitchen,"Smith, Weiss and White",127.46,200.04,641,Kelley LLC,True,2024-10-30
+PROD_0487,Organic dynamic middleware,Clothing,Accessories,"Wilson, Moore and Cox",420.07,519.69,679,Stewart Group,False,2024-08-05
+PROD_0488,Automated global product,Home,Decor,"Peterson, Villegas and Alvarado",236.26,551.0,957,"Jones, Henry and Martinez",False,2024-01-02
+PROD_0489,Realigned zero-defect model,Beauty,Fragrance,Stewart-Vargas,71.88,174.89,552,Smith PLC,True,2025-08-05
+PROD_0490,Versatile radical projection,Beauty,Bath & Body,Martinez and Sons,230.99,502.08,898,Jackson-Berg,False,2024-11-11
+PROD_0491,Persevering asymmetric migration,Beauty,Bath & Body,"Weaver, Coleman and Fields",158.28,261.37,552,Parks-Freeman,True,2025-02-13
+PROD_0492,Multi-tiered modular utilization,Electronics,Headphones,Proctor-Hudson,157.39,273.21,159,Peters-Jennings,False,2025-01-25
+PROD_0493,Innovative fault-tolerant Graphical User Interface,Electronics,Smartphones,Chang-White,264.04,577.13,139,"Dixon, Montes and Brown",False,2024-06-01
+PROD_0494,User-centric bandwidth-monitored strategy,Home,Decor,Gillespie-Alexander,269.87,565.14,503,"Fleming, Harper and Rodgers",False,2024-10-01
+PROD_0495,Object-based 6thgeneration Local Area Network,Home,Furniture,"Scott, Rodriguez and Yang",384.11,859.39,611,"Wheeler, Alvarez and Gallagher",True,2024-03-31
+PROD_0496,Polarized dedicated toolset,Electronics,Cameras,"Thomas, Hicks and Rubio",189.95,329.61,574,Miller-Wilson,False,2024-05-19
+PROD_0497,Digitized modular utilization,Sports,Outdoor,Delgado and Sons,85.82,185.22,399,Carroll Group,False,2024-05-15
+PROD_0498,Integrated zero administration paradigm,Clothing,Kids,Powell-Lopez,44.21,88.99,529,Hill-Smith,False,2024-07-16
+PROD_0499,Triple-buffered zero administration service-desk,Home,Garden,"Dominguez, Pope and Marquez",405.36,704.02,873,"Petersen, Flowers and Murphy",True,2025-05-19
+PROD_0500,Universal 3rdgeneration workforce,Clothing,Women,Blake-Ware,148.35,300.85,632,"Thomas, Montes and Green",False,2024-02-22
